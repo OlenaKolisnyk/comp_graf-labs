@@ -1,0 +1,32 @@
+# Ігноруємо директорії CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Файли Visual Studio
+*.vcxproj*
+*.sln
+*.suo
+*.user
+*.ipch
+*.pdb
+*.idb
+*.tlog
+
+# Object files
+*.o
+*.obj
+
+# Логи та тимчасові файли
+*.log
+*.tmp
+*.cache
+
+# Бібліотеки
+*.lib
+*.dll
+
+# Системні файли
+.DS_Store
+Thumbs.db
