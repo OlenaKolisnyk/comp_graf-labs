@@ -3,10 +3,13 @@ build/
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
+.vs/
+Debug/
+Release/
+x64/
 
 # Файли Visual Studio
-*.vcxproj*
-*.sln
+
 *.suo
 *.user
 *.ipch
